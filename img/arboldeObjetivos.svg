@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="arboldeObjetivos.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="C:\Documents and Settings\Administrador\Escritorio\Archivos\tex_uni_proposal\tex_uni_proposal\img\arboldeObjetivos1.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         id="path4048"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective4999"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5225"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5295"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.2013947"
+     inkscape:cx="213.62827"
+     inkscape:cy="320.07224"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1024"
+     inkscape:window-height="712"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g3979"
+       transform="translate(-1.6195701,4)">
+      <rect
+         y="421.59387"
+         x="199.66399"
+         height="49.987991"
+         width="147.27309"
+         id="rect3167"
+         style="fill:#33ff96;fill-opacity:1;stroke:#000000;stroke-width:2.05900002;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text3159"
+         y="443.06659"
+         x="271.0419"
+         style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:#3b2100;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           style="font-size:13px;text-align:center;text-anchor:middle;stroke:#3b2100;stroke-width:0.40000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           y="443.06659"
+           x="272.84464"
+           id="tspan3161"
+           sodipodi:role="line">Conocer la Usabilidad </tspan><tspan
+           style="font-size:13px;text-align:center;text-anchor:middle;stroke:#3b2100;stroke-width:0.40000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="tspan3163"
+           y="459.31659"
+           x="271.0419"
+           sodipodi:role="line">de la OLPC</tspan></text>
+    </g>
+    <g
+       id="g3961"
+       transform="translate(178.48763,6.978714)">
+      <text
+         id="text3171"
+         y="357.86609"
+         x="270.46939"
+         style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           style="font-size:13px;text-align:center;text-anchor:middle"
+           id="tspan3175"
+           y="357.86609"
+           x="272.27213"
+           sodipodi:role="line">Encontrar Métricas de la </tspan><tspan
+           id="tspan3179"
+           style="font-size:13px;text-align:center;text-anchor:middle"
+           y="374.11609"
+           x="270.46939"
+           sodipodi:role="line">Usabilidad de Sugar</tspan></text>
+      <rect
+         y="337.3472"
+         x="197.15659"
+         height="49.987991"
+         width="147.27309"
+         id="rect3181"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.39999998;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="g3973"
+       transform="translate(3.0121274e-8,-5.0146875)">
+      <text
+         id="text3187"
+         y="290.30426"
+         x="269.19669"
+         style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           id="tspan3191"
+           style="font-size:13px;text-align:center;text-anchor:middle"
+           y="290.30426"
+           x="270.99942"
+           sodipodi:role="line">Conocer la Usabilidad </tspan><tspan
+           id="tspan3195"
+           style="font-size:13px;text-align:center;text-anchor:middle"
+           y="306.55426"
+           x="269.19669"
+           sodipodi:role="line">de Sugar por Género</tspan></text>
+      <rect
+         y="269.14743"
+         x="197.15659"
+         height="49.987991"
+         width="147.27309"
+         id="rect3219"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.15883708;stroke-linejoin:round;stroke-opacity:1" />
+    </g>
+    <g
+       id="g3989"
+       transform="translate(-176.47834,-118.08189)">
+      <text
+         id="text3197"
+         y="533.17065"
+         x="270.46942"
+         style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           id="tspan3201"
+           style="font-size:13px;text-align:center;text-anchor:middle"
+           y="533.17065"
+           x="272.27216"
+           sodipodi:role="line">Comparar la Usabilidad </tspan><tspan
+           id="tspan3205"
+           style="font-size:13px;text-align:center;text-anchor:middle"
+           y="549.42065"
+           x="270.46942"
+           sodipodi:role="line">entre Versiones Sugar</tspan></text>
+      <rect
+         y="511.85831"
+         x="196.15366"
+         height="49.987991"
+         width="147.27309"
+         id="rect3221"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.15883708;stroke-linejoin:round;stroke-opacity:1" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="91.260513"
+       y="305.69073"
+       id="text3207"><tspan
+         sodipodi:role="line"
+         x="91.260513"
+         y="305.69073"
+         style="font-size:13px;text-align:center;text-anchor:middle"
+         id="tspan3211">Conocer la Usabilidad</tspan><tspan
+         sodipodi:role="line"
+         x="93.063248"
+         y="321.94073"
+         style="font-size:13px;text-align:center;text-anchor:middle"
+         id="tspan3217">de Sugar </tspan><tspan
+         id="tspan4021"
+         sodipodi:role="line"
+         x="91.260513"
+         y="338.19073"
+         style="font-size:13px;text-align:center;text-anchor:middle">en otros Equipos</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.15883708;stroke-linejoin:round;stroke-opacity:1"
+       id="rect3223"
+       width="147.27309"
+       height="49.987991"
+       x="18.950623"
+       y="293.40479" />
+    <image
+       xlink:href="olpc_a.jpg"
+       sodipodi:absref="C:\Documents and Settings\Administrador\Escritorio\Archivos\tex_uni_proposal\tex_uni_proposal\img\olpc_a.jpg"
+       width="87.105896"
+       height="107.40121"
+       id="image5297"
+       x="347.8522"
+       y="399.3306" />
+    <g
+       id="g3995"
+       transform="translate(1.0029378,75.208559)">
+      <g
+         id="g4009">
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+           x="269.19669"
+           y="282.30426"
+           id="text3997"><tspan
+             sodipodi:role="line"
+             x="270.99942"
+             y="282.30426"
+             style="font-size:13px;text-align:center;text-anchor:middle"
+             id="tspan4001">Usar Pruebas de </tspan><tspan
+             id="tspan4007"
+             sodipodi:role="line"
+             x="270.99942"
+             y="298.55426"
+             style="font-size:13px;text-align:center;text-anchor:middle">Usabilidad con Niños </tspan><tspan
+             sodipodi:role="line"
+             x="269.19669"
+             y="314.80426"
+             style="font-size:13px;text-align:center;text-anchor:middle"
+             id="tspan5507">5 a 6 años</tspan></text>
+        <rect
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.15883708;stroke-linejoin:round;stroke-opacity:1"
+           id="rect4003"
+           width="147.27309"
+           height="49.987991"
+           x="197.15659"
+           y="269.14743" />
+      </g>
+    </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker-start:url(#Arrow1Lstart);stroke-opacity:1"
+       d="M 272.41928,396.38739 C 272.41928,402.24358 272.41928,412.51603 272.41928,420.29225 C 272.41928,422.04139 272.41928,423.79052 272.41928,425.53966"
+       id="path4043" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker-start:url(#Arrow1Lstart);stroke-opacity:1"
+       d="M 272.79971,314.59909 C 272.79971,320.45528 272.79971,330.72773 272.79971,338.50395 C 272.79971,340.25309 272.79971,342.00222 272.79971,343.75136"
+       id="path4825" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker-start:url(#Arrow1Lstart);stroke-opacity:1"
+       d="M 374.43025,370.22962 C 368.57406,370.22962 358.30161,370.22962 350.52539,370.22962 C 348.77625,370.22962 347.02712,370.22962 345.27798,370.22962"
+       id="path4829" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker-start:url(#Arrow1Lstart);stroke-opacity:1"
+       d="M 183.65842,369.55564 C 186.26117,369.55564 190.82671,369.55564 194.2828,369.55564 C 195.0602,369.55564 195.8376,369.55564 196.61499,369.55564"
+       id="path4831" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker-start:url(#Arrow1Lstart);stroke-opacity:1"
+       d="M 166.67444,316.08285 C 169.87938,316.08285 175.50124,316.08285 179.75695,316.08285 C 180.71422,316.08285 181.67148,316.08285 182.62873,316.08285"
+       id="path4839" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.40000001;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4843"
+       width="0.80978507"
+       height="103.65248"
+       x="181.77228"
+       y="315.45779" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker-start:url(#Arrow1Lstart);stroke-opacity:1"
+       d="M 167.56148,418.75683 C 170.76642,418.75683 176.38828,418.75683 180.64399,418.75683 C 181.60126,418.75683 182.55852,418.75683 183.51577,418.75683"
+       id="path4845" />
+    <rect
+       style="fill:#33ff96;fill-opacity:1;stroke:#000000;stroke-width:2.05900002;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5379"
+       width="147.27309"
+       height="49.987991"
+       x="189.63873"
+       y="878.14075" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:#3b2100;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="263.01666"
+       y="891.61346"
+       id="text5381"><tspan
+         sodipodi:role="line"
+         id="tspan5383"
+         x="263.01666"
+         y="891.61346"
+         style="font-size:13px;text-align:center;text-anchor:middle;stroke:#3b2100;stroke-width:0.40000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">No se conoce</tspan><tspan
+         sodipodi:role="line"
+         x="263.01666"
+         y="907.86346"
+         id="tspan5385"
+         style="font-size:13px;text-align:center;text-anchor:middle;stroke:#3b2100;stroke-width:0.40000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">la Usabilidad de</tspan><tspan
+         sodipodi:role="line"
+         x="263.01666"
+         y="924.11346"
+         style="font-size:13px;text-align:center;text-anchor:middle;stroke:#3b2100;stroke-width:0.40000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="tspan5505"> la OLPC</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="440.55133"
+       y="809.39166"
+       id="text5389"><tspan
+         sodipodi:role="line"
+         x="442.35406"
+         y="809.39166"
+         style="font-size:13px;text-align:center;text-anchor:middle"
+         id="tspan5393">No se conoce </tspan><tspan
+         sodipodi:role="line"
+         x="442.35406"
+         y="825.64166"
+         style="font-size:13px;text-align:center;text-anchor:middle"
+         id="tspan5549">indicadores del uso </tspan><tspan
+         sodipodi:role="line"
+         x="440.55133"
+         y="841.89166"
+         style="font-size:13px;text-align:center;text-anchor:middle"
+         id="tspan5555">de Sugar</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.39999998;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5395"
+       width="147.27309"
+       height="49.987991"
+       x="367.23853"
+       y="796.87274" />
+    <g
+       id="g5397"
+       transform="translate(-8.405682,447.53216)">
+      <text
+         id="text5399"
+         y="282.30426"
+         x="271.19669"
+         style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           id="tspan5403"
+           style="font-size:13px;text-align:center;text-anchor:middle"
+           y="282.30426"
+           x="272.99942"
+           sodipodi:role="line">No se conoce si </tspan><tspan
+           style="font-size:13px;text-align:center;text-anchor:middle"
+           y="298.55426"
+           x="272.99942"
+           sodipodi:role="line"
+           id="tspan5521">existe diferencias  de </tspan><tspan
+           style="font-size:13px;text-align:center;text-anchor:middle"
+           y="314.80426"
+           x="271.19669"
+           sodipodi:role="line"
+           id="tspan5523">USO entre Géneros</tspan></text>
+      <rect
+         y="269.14743"
+         x="197.15659"
+         height="49.987991"
+         width="147.27309"
+         id="rect5405"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.15883708;stroke-linejoin:round;stroke-opacity:1" />
+    </g>
+    <g
+       id="g5407"
+       transform="translate(-184.88402,334.46496)">
+      <text
+         id="text5409"
+         y="533.17065"
+         x="270.46942"
+         style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           style="font-size:13px;text-align:center;text-anchor:middle"
+           y="533.17065"
+           x="270.46942"
+           sodipodi:role="line"
+           id="tspan5568">¿El uso mejora en </tspan><tspan
+           style="font-size:13px;text-align:center;text-anchor:middle"
+           y="533.17065"
+           x="270.46942"
+           sodipodi:role="line"
+           id="tspan5572">diferentes versiones?</tspan></text>
+      <rect
+         y="511.85831"
+         x="196.15366"
+         height="49.987991"
+         width="147.27309"
+         id="rect5415"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.15883708;stroke-linejoin:round;stroke-opacity:1" />
+    </g>
+    <text
+       id="text5417"
+       y="758.23761"
+       x="82.854828"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         style="font-size:13px;text-align:center;text-anchor:middle"
+         y="758.23761"
+         x="84.657562"
+         sodipodi:role="line"
+         id="tspan5423">No se sabe si es </tspan><tspan
+         style="font-size:13px;text-align:center;text-anchor:middle"
+         y="774.48761"
+         x="82.854828"
+         sodipodi:role="line"
+         id="tspan5562">lo mismo usar Sugar </tspan><tspan
+         style="font-size:13px;text-align:center;text-anchor:middle"
+         y="774.48761"
+         x="82.854828"
+         sodipodi:role="line"
+         id="tspan5564">en otros equipos</tspan></text>
+    <rect
+       y="745.95166"
+       x="10.544941"
+       height="49.987991"
+       width="147.27309"
+       id="rect5425"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.15883708;stroke-linejoin:round;stroke-opacity:1" />
+    <g
+       id="g5427"
+       transform="translate(-7.402745,527.75541)">
+      <g
+         id="g5429">
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+           x="269.19669"
+           y="282.30426"
+           id="text5431"><tspan
+             id="tspan5435"
+             sodipodi:role="line"
+             x="270.99942"
+             y="282.30426"
+             style="font-size:13px;text-align:center;text-anchor:middle">No se conoce estudios </tspan><tspan
+             sodipodi:role="line"
+             x="270.99942"
+             y="298.55426"
+             style="font-size:13px;text-align:center;text-anchor:middle"
+             id="tspan5513">en Niños </tspan><tspan
+             sodipodi:role="line"
+             x="269.19669"
+             y="331.05426"
+             style="font-size:13px;text-align:center;text-anchor:middle"
+             id="tspan5509">de 5 a 6 años</tspan></text>
+        <rect
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.15883708;stroke-linejoin:round;stroke-opacity:1"
+           id="rect5437"
+           width="147.27309"
+           height="49.987991"
+           x="197.15659"
+           y="269.14743" />
+      </g>
+    </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker-start:url(#Arrow1Lstart);stroke-opacity:1"
+       d="M 264.0136,848.93424 C 264.0136,854.79043 264.0136,865.06288 264.0136,872.8391 C 264.0136,874.58824 264.0136,876.33737 264.0136,878.08651"
+       id="path5439" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker-start:url(#Arrow1Lstart);stroke-opacity:1"
+       d="M 262.39403,767.14594 C 262.39403,773.00213 262.39403,783.27458 262.39403,791.0508 C 262.39403,792.79994 262.39403,794.54907 262.39403,796.29821"
+       id="path5441" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker-start:url(#Arrow1Lstart);stroke-opacity:1"
+       d="M 366.02457,822.77647 C 360.16838,822.77647 349.89593,822.77647 342.11971,822.77647 C 340.37057,822.77647 338.62144,822.77647 336.8723,822.77647"
+       id="path5443" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker-start:url(#Arrow1Lstart);stroke-opacity:1"
+       d="M 175.25274,822.10249 C 177.85549,822.10249 182.42103,822.10249 185.87712,822.10249 C 186.65452,822.10249 187.43192,822.10249 188.20931,822.10249"
+       id="path5445" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker-start:url(#Arrow1Lstart);stroke-opacity:1"
+       d="M 158.26876,768.6297 C 161.4737,768.6297 167.09556,768.6297 171.35127,768.6297 C 172.30854,768.6297 173.2658,768.6297 174.22305,768.6297"
+       id="path5447" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.40000001;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5449"
+       width="0.80978507"
+       height="103.65248"
+       x="173.36659"
+       y="768.00464" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker-start:url(#Arrow1Lstart);stroke-opacity:1"
+       d="M 159.1558,871.30368 C 162.36074,871.30368 167.9826,871.30368 172.23831,871.30368 C 173.19558,871.30368 174.15284,871.30368 175.11009,871.30368"
+       id="path5451" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker-start:url(#Arrow1Lstart);stroke-opacity:1"
+       d="M 271.68654,507.48263 C 271.68654,501.03278 271.68654,489.71897 271.68654,481.15445 C 271.68654,479.22799 271.68654,477.30155 271.68654,475.37509"
+       id="path5457" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="270.76065"
+       y="530.79346"
+       id="text5463"><tspan
+         id="tspan5467"
+         sodipodi:role="line"
+         x="272.56339"
+         y="530.79346"
+         style="font-size:13px;text-align:center;text-anchor:middle">Reconocer problemas </tspan><tspan
+         sodipodi:role="line"
+         x="270.76065"
+         y="547.04346"
+         style="font-size:13px;text-align:center;text-anchor:middle"
+         id="tspan5473">de Uso y Mejorarlos</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.15883708;stroke-linejoin:round;stroke-opacity:1"
+       id="rect5469"
+       width="147.27309"
+       height="49.987991"
+       x="196.72054"
+       y="509.6366" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker-start:url(#Arrow1Lstart);stroke-opacity:1"
+       d="M 264.16042,960.73481 C 264.16042,954.28496 264.16042,942.97115 264.16042,934.40663 C 264.16042,932.48017 264.16042,930.55373 264.16042,928.62727"
+       id="path5483" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="263.23453"
+       y="984.04559"
+       id="text5485"><tspan
+         sodipodi:role="line"
+         x="265.03726"
+         y="984.04559"
+         style="font-size:13px;text-align:center;text-anchor:middle"
+         id="tspan5489">Se ignora problemas </tspan><tspan
+         sodipodi:role="line"
+         x="263.23453"
+         y="1000.2956"
+         style="font-size:13px;text-align:center;text-anchor:middle"
+         id="tspan5495">de USO de las OLPC</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.15883708;stroke-linejoin:round;stroke-opacity:1"
+       id="rect5491"
+       width="147.27309"
+       height="49.987991"
+       x="189.19441"
+       y="962.88879" />
+    <image
+       xlink:href="olpc_a.jpg"
+       sodipodi:absref="C:\Documents and Settings\Administrador\Escritorio\Archivos\tex_uni_proposal\tex_uni_proposal\img\olpc_a.jpg"
+       width="87.105896"
+       height="107.40121"
+       id="image5580"
+       x="356.81503"
+       y="869.64484" />
+  </g>
+</svg>

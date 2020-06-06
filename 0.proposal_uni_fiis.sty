@@ -1,0 +1,304 @@
+%\setlength\paperheight {297mm}
+%\setlength\paperwidth  {210mm}
+    
+%\setlength{\textheight}{8.816in}
+%\setlength{\oddsidemargin}{0.378in}
+%\setlength{\evensidemargin}{0in}
+%\setlength{\textwidth}{6.122in}
+%\setlength{\topmargin}{0.184in}
+%\setlength{\headheight}{0in}
+%\setlength{\headsep}{0in}
+%\setlength{\parindent}{5ex}
+
+% -------------------------------------------------
+% Declara variables
+% -------------------------------------------------
+\def\uniauthorA#1 {\gdef\@uniauthorA{#1}}  \uniauthorA{}
+\def\unicodeA#1   {\gdef\@unicodeA{#1}}    \unicodeA{}
+\def\uniauthorB#1 {\gdef\@uniauthorB{#1}}  \uniauthorB{}
+\def\unicodeB#1   {\gdef\@unicodeB{#1}}    \unicodeB{}
+\def\unimonth#1   {\gdef\@unimonth{#1}}    \unimonth{}
+\def\uniyear#1    {\gdef\@uniyear{#1}}     \uniyear{}
+\def\unicycle#1   {\gdef\@unicycle{#1}}    \unicycle{}
+\def\unicity#1    {\gdef\@unicity{#1}}     \unicity{}
+\def\unititle#1   {\gdef\@unititle{#1}}    \unititle{}
+\def\unimajor#1   {\gdef\@unimajor{#1}}    \unimajor{}
+\def\unidirector#1{\gdef\@unidirector{#1}} \unidirector{}
+\def\uniuni#1     {\gdef\@uniuni{#1}}      \uniuni{}
+\def\unifac#1     {\gdef\@unifac{#1}}      \unifac{}
+\def\uniesc#1     {\gdef\@uniesc{#1}}      \uniesc{}
+\def\unigrade#1   {\gdef\@unigrade{#1}}    \unigrade{}
+%\def\uniprop#1    {\gdef\@uniprop{#1}}     \uniprop{Propuesta de Tesis presentada para obtener el grado de}
+\def\uniprop#1    {\gdef\@uniprop{#1}}     \uniprop{Para optar el Título Profesional de}
+%\uniprop{Tesis presentada para obtener el grado de}
+				
+
+\def\engtitle#1   {\gdef\@engtitle{#1}}    \engtitle{}
+\def\engfac#1     {\gdef\@engfac{#1}}      \engfac{}
+\def\engmajor#1   {\gdef\@engmajor{#1}}    \engmajor{}
+
+% -------------------------------------------------
+% Palabras en Español
+% -------------------------------------------------
+\def\contentsname{Tabla de Contenido}
+\def\acknowledgmentname{Reconocimientos}
+\def\listfigurename{Listado de Figuras}
+\def\listtablename{Listado de Tablas}
+\def\bibname{BIBLIOGRAFÍA}
+\def\indexname{ÍNDICE}
+\def\figurename{Figura}
+\def\tablename{Tabla}
+\def\chaptername{CAPÍTULO}
+\def\appendixname{Apéndice}
+\def\partname{Parte}
+\def\abstractname{RESUMEN}
+\def\acknowledgename{AGRADECIMIENTOS}
+\def\citationname{Citas de trabajos previos publicados}
+\def\arroba{@}
+
+
+
+% -------------------------------------------------
+% Parámetros
+% -------------------------------------------------
+\newcommand{\@defaultbaselinestretch}{1.5}
+
+
+% -------------------------------------------------
+% Pasta
+% -------------------------------------------------
+\newcommand{\unibuildpaste}{
+  \thispagestyle{empty}
+
+  \begin{center}
+    %\vspace*{1cm}
+    {\bfseries \Large \@uniuni}  \\[5mm]
+    \vspace*{0.4cm}
+    {\bfseries \large \@unifac}  \\[8mm]
+    \vspace*{0.4cm}
+    \includegraphics[width=2in]{./img/logouni.png} \\ [8mm]
+    %{\bfseries \Large \@uniesc} \\[12mm]
+    \vspace*{0.4cm}
+    
+        
+    {\bfseries \large \@unititle} \\[8mm]
+    \vspace*{0.8cm}
+    {\bfseries \large  TESIS } \\[5mm]
+    {\bfseries        \@uniprop} \\[5mm]
+    {\bfseries \large \@unigrade}\\[8mm]
+    %por \\[5mm]
+		\vspace*{0.8cm}
+    {\bfseries
+     \begin{tabular}{lll}
+        \@uniauthorA %& & \@unicodeA \\
+        %\@uniauthorB & & \@unicodeB \\
+    \end{tabular}  
+    }
+    \vspace*{0.8cm}
+    
+    
+
+		%\includegraphics[width=0.70\textwidth]{./img/logouni.png}
+    
+    {\bfseries \@unicity}                            \\ [3mm]
+    %{\bfseries \@unimonth \ de  \ \@uniyear}
+    {\bfseries  \ \@uniyear}
+  \end{center}
+  }
+% -------------------------------------------------
+% Cubierta
+% -------------------------------------------------
+
+\newcommand{\unibuildcover}{
+  \thispagestyle{empty}
+
+  \begin{center}
+    \title{\@unititle}
+    %\large\@unititle}
+    \author{\@uniauthorA \\
+            \@uniauthorB}
+    \date{\today}
+    \maketitle
+  \end{center}
+  }
+
+% -------------------------------------------------
+% Ambiente para generar el reconocimiento.
+% -------------------------------------------------
+\newcommand{\uniacknowledgment}{
+    \thispagestyle{empty}
+     \strut 
+     \vfill
+
+     \input{1.acknowledgment}
+
+     \vfill 
+     \strut
+
+  }
+
+% -------------------------------------------------
+% Ambiente para Prólogo
+% -------------------------------------------------
+\newcommand{\uniackprolog}{
+    \thispagestyle{empty}
+     \strut 
+     \vfill
+
+     \input{1.ackprolog}
+
+     \vfill 
+     \strut
+
+  }
+
+
+% -------------------------------------------------
+% Ambiente para generar el resumen en español
+% -------------------------------------------------
+\newcommand{\uniabstractspa}{
+  \thispagestyle{empty}
+  \begin{center}
+%    {\bfseries \huge  \@unititle} \\[5mm]
+	   \vspace*{4cm}
+     {\bfseries \large  RESUMEN } \\[5mm]		
+
+%     \begin{tabular}{lll}
+%        \@uniauthorA %& & \@unicodeA \\
+%        \@uniauthorB & & \@unicodeB \\
+%     \end{tabular}  
+    
+    \vspace*{5mm}
+    
+%    {\bfseries \large \@unifac,  \@uniyear} \\[3mm]
+    
+%    {\bfseries Asesor de Tesis: \@unimajor} \\[3mm]
+    
+  \end{center}
+
+  \vspace*{5mm}
+  
+  \input{2.abstractspa}
+  \newpage
+  }
+
+% -------------------------------------------------
+% Ambiente para generar el resumen en inglés.
+% -------------------------------------------------
+\newcommand{\uniabstracteng}{
+  \thispagestyle{empty}
+  \begin{center}
+%    {\bfseries \huge  \@engtitle} \\[5mm]
+			\vspace*{4cm}
+     {\bfseries \large  ABSTRACT } \\[5mm]		
+
+%     \begin{tabular}{lll}
+%        \@uniauthorA %& & \@unicodeA \\
+%        \@uniauthorB & & \@unicodeB \\
+%     \end{tabular}  
+    
+    \vspace*{5mm}
+   
+%    {\bfseries \large \@engfac,  \@uniyear} \\[3mm]
+    
+ %   {\bfseries Major Professor: \@engmajor} \\[3mm]
+    
+  \end{center}
+
+  \vspace*{5mm}
+  
+  \input{2.abstracteng}
+  }
+
+
+% -------------------------------------------------
+% Comando para generar la pagina de copyright.
+% -------------------------------------------------
+\newcommand{\unicopyright}{
+    \thispagestyle{empty}
+     \strut 
+     \vfill
+
+    \begin{center}
+      \textcopyright \\
+      \vspace*{3mm}
+      \@uniauthorA \\
+      \@uniauthorB \\
+      \vspace*{3mm}
+      \@uniyear
+      \copyright \\
+    \end{center}
+
+     \vfill 
+     \strut
+    }
+
+% -------------------------------------------------
+% Comando para generar la pagina de Vita.
+% -------------------------------------------------
+\newcommand{\univita}{
+    \thispagestyle{empty}
+    %\begin{center}
+      %{\bfseries \huge  Vita} \\%[10mm]
+    %\end{center}
+    
+    \input{8.vita}
+    
+    \vspace*{70mm}
+
+  	\centering
+		\includegraphics{./img/creative.png}
+
+    \textsc{\noindent La presente propuesta de tesis fue tipografiada 
+              con \LaTeX  ~ por \@uniauthorA ~  }
+ 
+
+
+  }
+
+
+% -------------------------------------------------
+% Descriptores Temáticos
+% -------------------------------------------------
+\newcommand{\descriptores}{
+    \thispagestyle{empty}
+    %\begin{center}
+      %{\bfseries \huge  Vita} \\%[10mm]
+    %\end{center}
+    %\vspace*{3cm}
+    \input{descriptores}
+    
+    %\vspace*{70mm}
+
+  	%\centering
+		%\includegraphics{./img/creative.png}
+
+    %\textsc{\noindent La presente propuesta de tesis fue tipografiada 
+     %         con \LaTeX  ~ por \@uniauthorA ~  }
+ 
+
+
+  }
+
+% -------------------------------------------------
+% Glosario de Términos
+% -------------------------------------------------
+\newcommand{\glosario}{
+    \thispagestyle{empty}
+    %\begin{center}
+      %{\bfseries \huge  Vita} \\%[10mm]
+    %\end{center}
+    %\vspace*{3cm}
+    \input{glosario}
+    
+    %\vspace*{70mm}
+
+  	%\centering
+		%\includegraphics{./img/creative.png}
+
+    %\textsc{\noindent La presente propuesta de tesis fue tipografiada 
+     %         con \LaTeX  ~ por \@uniauthorA ~  }
+ 
+
+
+  }

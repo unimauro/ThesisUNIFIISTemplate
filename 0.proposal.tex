@@ -1,0 +1,201 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%                 UNIVERSIDAD NACIONAL DE INGENIARÍA                  %
+%           Facultad de Ingeniería Industrial y de Sistemas           %
+%                                                                     %
+%                  | FORMATO DE PROPUESTA DE TESIS |                  %
+%                                                                     %
+%                     (C) Samuel Oporto Díaz                          %
+%                         soporto@wiphala.net                         %
+%                         Carlos Mauro Cárdenas Fernández             %
+%                         unimauro@gmail.com                          %
+%                                                                     %
+%                              Lima - 2007                            %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% -------------------------------------------------
+% define parámetros del d0000000000000000000000000000000000ocumento
+% -------------------------------------------------
+\documentclass[12pt,a4paper]{report}
+
+
+\usepackage{0.proposal_uni_fiis}
+%\usepackage{amsmath}
+\usepackage[latin1]{inputenc}
+
+%\usepackage[ascii]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[scaled]{uarial}
+\renewcommand*\familydefault{\sfdefault}
+\usepackage[spanish]{babel}
+\usepackage{amsmath,amssymb,amsfonts,textcomp}
+\usepackage{ifpdf}
+%\usepackage{uarial}
+\usepackage{setspace}
+\usepackage{color}
+\usepackage{array}
+\usepackage{hhline}
+%\usepackage{hyperref}
+\usepackage{textcomp}
+\usepackage{times}
+\usepackage{datetime}
+\usepackage{titlesec}
+\usepackage{placeins}
+\usepackage{subfigure}
+\usepackage{supertabular}
+\usepackage{longtable}
+\usepackage{colortbl}
+\usepackage{lscape}
+\usepackage{fullpage,graphicx}
+\usepackage[pdftex]{hyperref}
+\usepackage[nottoc]{tocbibind} 
+\usepackage{rotating}
+\usepackage{multirow}
+\usepackage{inputenc}
+\usepackage{sectsty}
+\sectionfont{\normalsize\MakeUppercase}
+\subsectionfont{\normalsize\MakeUppercase}
+\subsubsectionfont{\normalsize\MakeUppercase}
+\usepackage[left=4cm,top=4cm,right=2.5cm,bottom=2.5cm]{geometry} 
+%AGREGAR AQUI MAS PAQUETES
+% -------------------------------------------------
+% define datos del tesista
+% -------------------------------------------------
+\uniauthorA{Carlos Mauro Cárdenas Fernández}              %% Autor de la propuesta
+%\unicodeA{19990039F}                                      %% Código Alumno
+%\uniauthorB{Palermo Ston, Pedro Adelante}                %% Autor de la propuesta
+%\unicodeB{2000003C}                                      %% Código Alumno
+
+%\unimonth{31 de Julio}                                     %% Mes de propuesta
+\uniyear{2009}                                           %% A~no de propuesta
+%\unicycle{2009-I}                                       %% Periodo académico
+\unicity{Lima Perú}                                    %% Ciudad
+
+%\unititle{Usabilidad de Software Sugar de las OLPC}
+\unititle{EVALUACIÓN DE LA OLPC CON INGENIERÍA DE USABILIDAD}
+\engtitle{EVALUATING THE OLPC WITH USABILITY ENGINEERING}
+                                                         %% Titulo de la prop.
+%\unimajor{Ing.~Arturo Simich}                    %% Asesor de propuesta.
+%\engmajor{Arturo Simich, Eng}                    %% Major Professor
+%\unidirector{Ing.~Gloria Teresita Huamani}                   %% Director de Escuela
+
+\uniuni{UNIVERSIDAD NACIONAL DE INGENIERÍA}              %% Universidad
+\unifac{FACULTAD DE INGENIERÍA INDUSTRIAL Y DE SISTEMAS} %% Facultad
+\engfac{FACULTY OF INDUSTRIAL ENGINEERING AND SYSTEMS}   %% Faculty
+%\engfac{Faculty of Industrial Engineering and Systems}   %% Faculty
+%\uniesc{Escuela Profesional de Ingeniería de Sistemas}   %% Escuela
+\unigrade{INGENIERÍA DE SISTEMAS}                         %% Nombre del grado academico.
+% -------------------------------------------------
+% silabeo
+% -------------------------------------------------
+\hyphenation {
+a-na-li-zan
+a-nor-ma-li-dad
+a-rra-ci-ma-dos
+a-rre-glo
+a-so-cia-das
+va-lor
+ma-yor
+}
+
+%----------------
+
+%----------------
+
+
+%----------------
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Formato que le solicitaron a Jonhatan Zelada usada por BENITO ZARATE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%\titleformat{\chapter}[display]
+%%%\renewcomand{\thechapter}{\thechapter : }
+%%%\renewcomand{\thechapter}{\Roman{chapter}:}
+%%\titleformat{\chapter}[hang]
+%%%{\vspace*{2cm}}
+%%%{\vspace{20ex}
+%%{\centering\vspace*{2cm}\large\bfseries}
+%%%{\filcenter
+%%%{\vspace{8cm}}
+%%\MakeUppercase{\MakeUppercase{\chaptertitlename}\enspace \large\MakeUppercase{\thechapter} :}{\large\MakeUppercase}
+%%{\vspace{1ex}}{\vspace{1ex}}
+%%%\filcenter}
+%----------------
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%-------------------------------------------------------------------------------------------
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% 
+%%	Formalo exigido por Ciriano que joda...
+%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\titleformat{\chapter}[display]
+  {\normalfont\MakeUppercase\large\bfseries\centering\vspace*{2cm}}{\large\MakeUppercase{\chaptertitlename}\ \large\MakeUppercase{\large\thechapter}}{14pt}{\large\MakeUppercase}
+%-------------------------------------------------------------------------------------------
+
+
+%----------------
+\titleformat{\tableofcontents}[display] % cambiamos el formato de los capítulos
+{\bfseries\huge} % por defecto se usarán caracteres de tamaño \Huge en negrita
+{% contenido de la etiqueta
+% \titlerule % línea horizontal
+ \vspace*{1.8cm}
+ %\vskip2.5cm 
+ \filcenter % texto alineado a la derecha
+ \huge\contentsname\ % "Capítulo" o "Apéndice" en tamaño \Large en lugar de \Huge
+ %\huge\thechapter} % número de capítulo en tamaño \Large
+{5mm} % espacio mínimo entre etiqueta y cuerpo
+{\filcenter} % texto del cuerpo alineado a la derecha
+%[\vspace{0.5mm} \bigrule]
+
+
+
+% -----------------------
+\begin{document}
+\onehalfspacing
+\bibliographystyle{alpha}
+
+\unibuildpaste        % pasta de la propuesta
+\unibuildcover        % carátula de la propuesta
+\newpage
+\uniacknowledgment    % reconocimientos
+\newpage
+\uniackprolog
+\newpage
+\uniabstractspa       % resumen en español
+\uniabstracteng       % resumen en inglés
+
+\frontmatter
+
+
+\newpage
+\setcounter{page}{1}
+\pagenumbering{roman} 
+
+\tableofcontents
+\listoftables
+\listoffigures
+\descriptores
+
+\newpage
+\mainmatter 
+\setcounter{page}{1}  
+\pagenumbering{arabic} 
+\include{3.chapter01} %1. Introducción
+\include{3.chapter02} %2. Formulación del Problema
+\include{3.chapter03} %3. Marco Teorico
+\include{3.chapter06} %6. Metodología de la Investigación
+\include{3.chapter08} %8. Modelo de Solución
+\include{3.chapter09} %9. Medición de la Usabilidad de la OLPC % Instrumentos de Medición
+\include{4.conclusions} %11. Conclusiones
+\glosario
+\newpage
+\bibliography{references}
+\newpage
+\include{4.anexos} %13. Anexos
+
+
+\newpage
+\univita
+\unicopyright
+
+
+\end{document}
