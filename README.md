@@ -14,3 +14,7 @@ $ latex 0.proposal.tex
 Se tiene un error de compilación se tratara de corregir ya que no esta integrando en el ubuntu actual las imagenes ni crea el pdf ya que pdflatex este deprecado.
 
 Probar en Mintex
+
+
+carlos@cardenas.pe
+@unimauro
