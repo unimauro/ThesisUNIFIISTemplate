@@ -17,4 +17,4 @@ Probar en Mintex
 
 
 carlos@cardenas.pe
-@unimauro
+twitter: @unimauro
